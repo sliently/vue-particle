@@ -2,11 +2,15 @@ var path = require('path')
 var webpack = require('webpack')
 
 module.exports = {
+    // entry: './src/vue-particle/index.js',
     entry: './src/main.js',
     output: {
         path: path.resolve(__dirname, './dist'),
         publicPath: '/dist/',
         filename: 'build.js'
+            // filename: 'vue-particle.js',
+            // library: 'VueParticle',
+            // libraryTarget: 'umd'
     },
     module: {
         rules: [{

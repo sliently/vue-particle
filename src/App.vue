@@ -8,12 +8,8 @@
 </template>
 
 <script>
-import VueParticles from './components/vue-particles'
 export default {
   name: 'app',
-  components:{
-    VueParticles
-  }
 }
 </script>
 
