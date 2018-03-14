@@ -1,5 +1,5 @@
 # vue-particles 1.00
-
+[![author](https://img.shields.io/badge/author-HP%E6%B5%B7%E5%B9%B3-brightgreen.svg)](https://github.com/HaipingXiaotong)
 > vue-particles第一版 基于第三方particles.js封装为vue组件 <a href="https://github.com/VincentGarreau/particles.js">快速链接</a>
 
 ## 使用方法
